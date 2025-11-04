@@ -109,5 +109,5 @@ Feel free to use it for learning, personal, or commercial projects.
 
 ## 🔹 Demo
 
-A live demo of the landing page can be found [here](#) 
+A live demo of the landing page can be found [here](ochi-landing-page-3zhihth2z-bharrguvarmn-gmailcoms-projects.vercel.app) 
 
