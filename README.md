@@ -109,5 +109,5 @@ Feel free to use it for learning, personal, or commercial projects.
 
 ## 🔹 Demo
 
-A live demo of the landing page can be found [here](#) (replace `#` with your live link, e.g., Netlify/Vercel).
+A live demo of the landing page can be found [here](#) 
 
